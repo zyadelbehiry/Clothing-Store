@@ -1,0 +1,258 @@
+[
+  {
+    "id": "p-001",
+    "brand": "Hugo Boss",
+    "category": "T-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/1.webp"
+  },
+  {
+    "id": "p-002",
+    "brand": "Hugo Boss",
+    "category": "T-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/2.webp"
+  },
+  {
+    "id": "p-003",
+    "brand": "U.S POLO",
+    "category": "T-SHIRTS",
+    "old-price": "LE2,750.00",
+    "current-price": "LE1,950.00",
+    "p-image": "../pictures/products/3.webp"
+  },
+  {
+    "id": "p-004",
+    "brand": "TOMMY HILIFIGER",
+    "category": "T-SHIRTS",
+    "old-price": "LE4000.00",
+    "current-price": "LE3,500.00",
+    "p-image": "../pictures/products/4.webp"
+  },
+  {
+    "id": "p-005",
+    "brand": "TOMMY HILIFIGER",
+    "category": "T-SHIRTS",
+    "old-price": "LE4000.00",
+    "current-price": "LE3,500.00",
+    "p-image": "../pictures/products/5.webp"
+  },
+  {
+    "id": "p-006",
+    "brand": "Hugo Boss",
+    "category": "T-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/6.webp"
+  },
+  {
+    "id": "p-007",
+    "brand": "TOMMY HILIFIGER",
+    "category": "T-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/7.webp"
+  },
+  {
+    "id": "p-008",
+    "brand": "TOMMY HILIFIGER",
+    "category": "T-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/8.webp"
+  },
+  {
+    "id": "p-009",
+    "brand": "LACOSTE",
+    "category": "POLO-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/p1.jpg"
+  },
+  {
+    "id": "p-010",
+    "brand": "LACOSTE",
+    "category": "POLO-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/p2.webp"
+  },
+  {
+    "id": "p-011",
+    "brand": "LACOSTE",
+    "category": "POLO-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/p3.webp"
+  },
+  {
+    "id": "p-012",
+    "brand": "LACOSTE",
+    "category": "POLO-SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/p4.webp"
+  },
+  {
+    "id": "p-013",
+    "brand": "HUGO BOSS",
+    "category": "JEANS & TROUSERS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/j1.jpg"
+  },
+  {
+    "id": "p-014",
+    "brand": "HUGO BOSS",
+    "category": "JEANS & TROUSERS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/j2.webp"
+  },
+  {
+    "id": "p-015",
+    "brand": "HUGO BOSS",
+    "category": "JEANS & TROUSERS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/j3.webp"
+  },
+  {
+    "id": "p-016",
+    "brand": "HUGO BOSS",
+    "category": "JEANS & TROUSERS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/j4.webp"
+  },
+  {
+    "id": "p-017",
+    "brand": "CALVIN KLEIN",
+    "category": "SHORTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/s1.webp"
+  },
+  {
+    "id": "p-018",
+    "brand": "CALVIN KLEIN",
+    "category": "SHORTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/s2.webp"
+  },
+  {
+    "id": "p-019",
+    "brand": "CALVIN KLEIN",
+    "category": "SHORTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/s3.webp"
+  },
+  {
+    "id": "p-020",
+    "brand": "CALVIN KLEIN",
+    "category": "SHORTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/s4.webp"
+  },
+  {
+    "id": "p-021",
+    "brand": "GANT",
+    "category": "SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/g1.webp"
+  },
+  {
+    "id": "p-022",
+    "brand": "GANT",
+    "category": "SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/g2.webp"
+  },
+  {
+    "id": "p-023",
+    "brand": "GANT",
+    "category": "SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/g3.webp"
+  },
+  {
+    "id": "p-024",
+    "brand": "GANT",
+    "category": "SHIRTS",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/g4.webp"
+  },
+  {
+    "id": "p-025",
+    "brand": "TEMBERLAND",
+    "category": "SHOES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/a1.webp"
+  },
+  {
+    "id": "p-026",
+    "brand": "TEMBERLAND",
+    "category": "SHOES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/a2.webp"
+  },
+  {
+    "id": "p-027",
+    "brand": "TEMBERLAND",
+    "category": "SHOES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/a3.webp"
+  },
+  {
+    "id": "p-028",
+    "brand": "TEMBERLAND",
+    "category": "SHOES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/a4.webp"
+  },
+  {
+    "id": "p-029",
+    "brand": "TEMBERLAND",
+    "category": "ACCESSORIES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/q1.jpg"
+  },
+  {
+    "id": "p-030",
+    "brand": "TEMBERLAND",
+    "category": "ACCESSORIES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/q2.webp"
+  },
+  {
+    "id": "p-031",
+    "brand": "TEMBERLAND",
+    "category": "ACCESSORIES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/q3.jpg"
+  },
+  {
+    "id": "p-032",
+    "brand": "TEMBERLAND",
+    "category": "ACCESSORIES",
+    "old-price": "LE3,500.00",
+    "current-price": "LE2,450.00",
+    "p-image": "../pictures/products/q4.webp"
+  }
+]
