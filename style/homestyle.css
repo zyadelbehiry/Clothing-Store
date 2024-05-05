@@ -18,9 +18,10 @@ body {
 }
 .page-top {
   width: 100%;
-  height: 5%;
+  height: 35px;
   text-align: center;
-  background-color: #015675;
+  background-color: black;
+  font-size: small;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -54,12 +55,16 @@ body {
         text-decoration: none;
         font-family: monospace;
         font-size: 16px;
-        border-radius: 10px;
         transition: 0.4s ease;
         -webkit-transition: 0.4s ease;
         -moz-transition: 0.4s ease;
         -ms-transition: 0.4s ease;
         -o-transition: 0.4s ease;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
       }
     }
   }
@@ -101,84 +106,37 @@ body {
 .right-img {
   width: 60%;
   height: 100%;
-  background-image: url("../pictures/AdobeStock_218976523-min-1024x724.jpeg");
+  background-image: url("../pictures/claudio-schwarz-CYW39WvglfI-unsplash.jpg");
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 @media screen and (max-width: 450px) {
   body {
     height: 100vh;
     display: flex;
     flex-flow: row wrap;
-    gap: 15px;
   }
   .page-top {
     font-size: 12px;
+    display: none;
   }
   .main-bar {
-    height: 40%;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-content: flex-start;
-    .titleh {
-      width: 100%;
-      height: 70px;
-    }
-    .ul-head {
-      width: 100%;
-      flex-flow: column nowrap;
-      li {
-        width: 100%;
-        height: 45px;
-        display: block;
-        width: 100%;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #175e85;
-        color: white;
-        padding: 5px 20px;
-        border-radius: 10px;
-        -webkit-border-radius: 10px;
-        -moz-border-radius: 10px;
-        -ms-border-radius: 10px;
-        -o-border-radius: 10px;
-        a {
-          color: white;
-        }
-      }
-      li:hover {
-        background-color: #eee;
-        border: 3px var(--mian-color) solid;
-        font-weight: 700;
-        a {
-          color: black;
-        }
-      }
-      li.active {
-        font-weight: 700;
-        background-color: #eee;
-        border: 3px var(--mian-color) solid;
-        a {
-          padding: 15px 120px;
-          color: black;
-        }
-      }
-    }
+    display: none;
   }
   .center-content {
     width: 100%;
-    height: 60%;
-    background-image: url(/pictures/multi-colored-textile-pattern-elegant-dress-generated-by-ai_188544-42228.avif);
+    height: 100%;
+    background-image: url(/pictures/peter-chirkov-1NPxYFM17ow-unsplash.jpg);
     background-position: center;
     background-size: cover;
-    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     .left-part {
       width: 100%;
       p {
         font-weight: 700;
+        text-shadow: black 2px 2px 4px;
         font-size: 30px;
         text-align: center;
       }
@@ -187,16 +145,19 @@ body {
       display: none;
     }
     .img-button {
-      color: white;
+      color: black;
+      background-color: #fff;
+      font-size: 18px;
+      font-weight: 900;
       padding: 10px 100px;
-      border: 3px solid;
-      border-color: white;
+      border: black 3px solid;
       text-decoration: none;
       font-weight: 700;
       border-radius: 5px;
     }
     .img-button:hover {
-      color: var(--mian-color);
+      background-color: black;
+      color: white;
     }
   }
 }
@@ -219,12 +180,11 @@ body {
       }
     }
     li a:hover {
-      border-radius: 10px;
-      background-color: #175e85;
+      background-color: black;
       color: #fff;
     }
     li.active a {
-      background-color: var(--mian-color);
+      background-color: black;
       color: #fff;
     }
   }
